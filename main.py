@@ -1,12 +1,12 @@
 import requests
 from twilio.rest import Client
 
-api_key = "f29c3587910bc9826af8dd07f9fc72d2"
+api_key = 
 lat = 12.709210
 lon = 78.165138
 
-account_sid = "AC8df5f50d0ced2937c381d1d68380ae42"
-auth_token = "9c10281d04383877005edb0ecbbef852"
+account_sid = 
+auth_token = 
 
 weather_parameters = {
     "lat": 33.019790,
